@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="ur">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="title.txt:1" maxwidth="30" weblate-flags="max-length:30"><source>Checkey: info on local apps</source>
+        <target state="translated">چیکی: مقامی ایپس پر معلومات</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="full_description.txt:1" maxwidth="4000" weblate-flags="max-length:4000"><source>Checkey is a utility for getting information about the APKs that are installed on your device. Starting with a list of all of the apps that you have installed on your device, it will show you the APK signature with a single touch, and provides links to virustotal.com and androidobservatory.org to easily access the profiles of that APK. It will also let you export the signing certificate and generate ApkSignaturePin pin files for use with the TrustedIntents library.
+
+★ OPEN-SOURCE: Our code is transparent. You can take a look or join the community to help make Checkey even better: https://gitlab.com/guardianproject/checkey
+★ WE SPEAK YOUR LANGUAGE: Checkey is available for friends who speak: Deutsch, English, español, suomi, 日本語, 한국어, Norsk, português (Portugal), Русский, Slovenščina, Türkçe
+
+Don’t see your language? Join us and help translate the app:
+https://hosted.weblate.org/projects/guardianproject/checkey/
+https://hosted.weblate.org/projects/guardianproject/checkey-metadata/
+
+
+***Learn More***
+★ ABOUT US: Guardian Project is a group of developers that make secure mobile apps and open-source code for a better tomorrow
+★ OUR WEBSITE: https://GuardianProject.info to learn more about us
+★ ON TWITTER: https://twitter.com/guardianproject
+★ FREE SOFTWARE: Checkey is free software. You can take a look at our source code, or contribute to help make Checkey even better: https://gitlab.com/guardianproject/checkey
+★ MESSAGE US: Are we missing your favorite feature? Found an annoying bug? Please tell us! We’d love to hear from you. Send us an email: support@guardianproject.info or find us in our chat room https://guardianproject.info/contact</source>
+        <target state="translated">آپ کے آلہ پر نصب شدہ APKs کے بارے میں معلومات حاصل کرنے کے لئے چیکی ایک افادیت ہے۔ آپ نے اپنے آلے پر انسٹال کردہ سبھی ایپس کی فہرست کے ساتھ شروع کریں، یہ آپ کو ایک لمس کے ساتھ APK کے دستخط دکھائے گا، اور اس APK کے پروفائلز تک آسانی سے رسائی حاصل کرنے کے لیے virustotal.com اور androidobservatory.org کے لنک فراہم کرتا ہے۔ یہ آپ کو دستخطی سرٹیفکیٹ برآمد کرنے اور ٹرسٹڈ انٹیٹینٹ لائبریری کے ساتھ استعمال کے لئے ApkSignaturePin  فائلیں تیار کرنے بھی دے گا۔
+
+★ اوپن سورس: ہمارا کوڈ شفاف ہے۔ آپ چیکی کو اور بھی بہتر بنانے میں مدد کے لیے ایک نظر ڈال سکتے ہیں یا کمیونٹی میں شامل ہو سکتے ہیں: https://gitlab.com/guardianproject/checkey
+★ ہم آپ کی زبان بولتے ہیں: چیکی بولنے والے دوستوں کے لئے دستیاب ہے: Deutsch, English, español, suomi, 日本語, 한국어, Norsk, português (Portugal), Русский, Slovenščina, Türkçe
+
+اپنی زبان نہیں دیکھیں؟ ہمارے ساتھ شامل ہوں اور ایپ کا ترجمہ کرنے میں مدد کریں:
+https://hosted.weblate.org/projects/guardianproject/checkey/
+https://hosted.weblate.org/projects/guardianproject/checkey-metadata/
+
+
+***اورجانیے***
+★ ہمارے بارے میں: گارجین پروجیکٹ ڈویلپرز کا ایک گروپ ہے جو بہتر کل کیلئے محفوظ موبائل ایپس اور اوپن سورس کوڈ بناتا ہے۔
+★ ہماری ویب سائٹ: https://GuardianProject.info ہمارے بارے میں مزید معلومات کے لیے۔
+★ ٹویٹر پر: https://twitter.com/guardianproject
+★ مفت سافٹ ویئر: چیکی مفت سافٹ ویئر ہے۔ آپ ہمارے ماخذ کوڈ پر ایک نظر ڈال سکتے ہیں، یا چیکی کو اور بھی بہتر بنانے میں مدد فراہم کرسکتے ہیں: https://gitlab.com/guardianproject/checkey
+★ ہمیں پیغام بھیجیں: کیا آپ کی پسندیدہ خصوصیت اس میں نہیں پاتے؟ پریشان کن بگ ملا؟ براہ کرم ہمیں بتائیں! ہم آپ سے سننا پسند کریں گے۔ ہمیں ایک ای میل بھیجیں: support@guardianproject.info یا ہمارے چیٹ روم میں ہمیں تلاش کریں https://guardianproject.info/contact</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="changelogs/101.txt:1" maxwidth="500" weblate-flags="max-length:500"><source>+ add translations: de es fi ja ko nb tr
++ reproducible build process
++ add latest Android Support v7 to fix crashes</source>
+        <target state="translated">+ ترجمہ شامل کریں: de es fi jo ko nb tr
++ دوبارہ تولیدی عمل کا عمل
++ کریشوں کو ٹھیک کرنے کیلئے جدید ترین Android سپورٹ v7 شامل کریں</target>
+        <note from="translator">Does that mean anything other than "reproducible build"?&#13;
+Also, Android 7 (the version) added?</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="changelogs/102.txt:1" maxwidth="500" weblate-flags="max-length:500"><source>+ simplify overview and add "detail view"
++ fix all known crasher bugs
++ add translations: pt_PT ru sl
++ update translations: de fi ja nb</source>
+        <target state="translated">+ جائزہ آسان بنائیں اور "تفصیل سے دیکھیں" شامل کریں
++ تمام مشہور کریشیر بگ ٹھیک کریں
++ ترجمہ شامل کریں: pt_PT ru sl
++ تازہ ترین ترجمے: ur de fi ja nb</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="changelogs/103.txt:1" maxwidth="500" weblate-flags="max-length:500"><source>+ reproducible build
++ add translations: fa fr zh-CN
++ update translations: de pt_PT tr</source>
+        <target state="translated">+ تولیدی تعمیر
++ ترجمہ شامل کریں: fa fr zh-CN
++ تازہ ترین ترجمے: ur pt_PT tr</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="short_description.txt:1" maxwidth="80" weblate-flags="max-length:80"><source>utility for getting information about the APKs that are installed on your device</source>
+        <target state="translated">آپ کے آلہ پر انسٹال کردہ APKs کے بارے میں معلومات حاصل کرنے کی افادیت</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
